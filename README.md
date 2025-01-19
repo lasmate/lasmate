@@ -7,7 +7,7 @@ Im a Dev student from **france**
 - My second brain is my [Obsidian Vault](https://github.com/obsidianmd)
 - I have experience with the basics of web techn both front and back end.
 - I have decent experience with C, Pyhon, Bash, Shell, Java, Lua, Ocaml,
-- - And i am actively learning Rust, , and Javascript
+- - And i am actively learning Rust, node.js and digging into different Javascript frameworks ( until i find the right one iykyk)
 
 In my free time like to tinker with hardware and software, I game(mostly jrpg's), and love tarvelling and meeting new people from wildly different backgrounds 
 My current obsession (since the last two years) is [Blender](https://github.com/blender)
