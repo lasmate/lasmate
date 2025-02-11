@@ -15,7 +15,7 @@ My current obsession (since the last two years) is [Blender](https://github.com/
 ![Lya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasmate&show_icons=true&theme=radical)
 
 
-
+[![roadmap.sh](https://roadmap.sh/card/wide/67a31d9ef8633434821119dc?variant=dark&roadmaps=frontend%2Cjavascript%2Cflutter%2Cdevops)](https://roadmap.sh)
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
