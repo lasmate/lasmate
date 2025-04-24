@@ -5,9 +5,10 @@ Im a Dev student from **france**
 
 - My main workflow is now Arch on [Hyprland](https://github.com/hyprwm/Hyprland),with [waybar](https://github.com/Alexays/Waybar), [Alacritty](https://github.com/alacritty/alacritty),and other things wayland compatible
 - My second brain is my [Obsidian Vault](https://github.com/obsidianmd)
-- I have experience with the basics of web techn both front and back end.
+- I have experience with the basics of web tech in both front and back end.
 - I have decent experience with C, Pyhon, Bash, Shell, Java, Lua, Ocaml,
 - - And i am actively learning Rust, node.js and digging into different Javascript frameworks ( until i find the right one iykyk)
+  - Im currently delving into Three.js and Slint as well as a bit of Flutter
 
 In my free time like to tinker with hardware and software, I game(mostly jrpg's), and love tarvelling and meeting new people from wildly different backgrounds 
 My current obsession (since the last two years) is [Blender](https://github.com/blender)
