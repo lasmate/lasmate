@@ -7,11 +7,11 @@ Im a Dev student from **france**
 - My second brain is my [Obsidian Vault](https://github.com/obsidianmd)
 - I have experience with the basics of web tech in both front and back end.
 - I have decent experience with C, Pyhon, Bash, Shell, Java, Lua, Ocaml,
-- - And i am actively learning Rust, node.js and digging into different Javascript frameworks ( until i find the right one iykyk)
-  - Im currently delving into Three.js and Slint as well as a bit of Flutter
+- - And i am actively learning Rust, Svelte and digging into other different Javascript frameworks ( until i find the right one iykyk)
+  - Im currently delving into Three.js and Slint as well as a bit of Flutter when im not doing svelte related things
 
 In my free time like to tinker with hardware and software, I game(mostly jrpg's), and love tarvelling and meeting new people from wildly different backgrounds 
-My current obsession (since the last two years) is [Blender](https://github.com/blender)
+My current obsession (since the last three years) is [Blender](https://github.com/blender) that i now use both for renders and a part of my 3dprinting workflow
 
 ![Lya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasmate&show_icons=true&theme=radical)
 
