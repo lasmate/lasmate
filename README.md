@@ -10,8 +10,8 @@ Im a Dev student from **france**
 - - And i am actively learning Rust, Svelte and digging into other different Javascript frameworks ( until i find the right one iykyk)
   - Im currently delving into Three.js and Slint as well as a bit of Flutter when im not doing svelte related things
 
-In my free time like to tinker with hardware and software, I game(mostly jrpg's), and love tarvelling and meeting new people from wildly different backgrounds 
-My current obsession (since the last three years) is [Blender](https://github.com/blender) that i now use both for renders and a part of my 3dprinting workflow
+In my free time like to tinker with hardware and software, I game(mostly jrpg's and some rare mmo's), and love tarvelling and meeting new people from wildly different backgrounds(last travel destination was italy) 
+My current obsession (since the last 4 years) is [Blender](https://github.com/blender) that i now use both for renders and a part of my 3dprinting workflow of the anycubic Kobra3
 
 ![Lya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasmate&show_icons=true&theme=radical)
 
