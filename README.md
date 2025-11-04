@@ -3,15 +3,20 @@
 ### Name's Lya 
 Im a Dev student from **france** 
 
-- My main workflow is now Arch on [Hyprland](https://github.com/hyprwm/Hyprland),with [waybar](https://github.com/Alexays/Waybar), [Alacritty](https://github.com/alacritty/alacritty),and other things wayland compatible
+- My main workflow is now Arch on [Hyprland](https://github.com/hyprwm/Hyprland),with [waybar](https://github.com/Alexays/Waybar), [Alacritty](https://github.com/alacritty/alacritty),[neovim]()
 - My second brain is my [Obsidian Vault](https://github.com/obsidianmd)
-- I have experience with the basics of web tech in both front and back end.
-- I have decent experience with C, Pyhon, Bash, Shell, Java, Lua, Ocaml,
+- - i use a combination of[syncthing]()  and [Tailscale]() as a privately hosted cloud drive
+
+- I have experience with most of the popular web techs in both front and back end.
+- I also have decent experience with C, Pyhon, Shell, Java, Lua, Ocaml,
 - - And i am actively learning Rust, Svelte and digging into other different Javascript frameworks ( until i find the right one iykyk)
   - Im currently delving into Three.js and Slint as well as a bit of Flutter when im not doing svelte related things
 
-In my free time like to tinker with hardware and software, I game(mostly jrpg's and some rare mmo's), and love tarvelling and meeting new people from wildly different backgrounds(last travel destination was italy) 
-My current obsession (since the last 4 years) is [Blender](https://github.com/blender) that i now use both for renders and a part of my 3dprinting workflow of the anycubic Kobra3
+In my free time like to tinker with hardware and software.
+My current hobby obsession (since the last 4 years) is [Blender](https://github.com/blender) that i now use both for renders and a part of my 3dprinting workflow using the [anycubic Kobra3]()
+  (currently in the process of building my own mini server rack to fully transition out of most of the google products i use)
+I game(mostly jrpg's and gachas with some rare mmo's here and there), and **love** tarvelling and meeting new people from wildly different backgrounds(last travel destination was portugal) 
+
 
 ![Lya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasmate&show_icons=true&theme=radical)
 
