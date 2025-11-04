@@ -9,12 +9,13 @@ Im a Dev student from **france**
 
 - I have experience with most of the popular web techs in both front and back end.
 - I also have decent experience with C, Pyhon, Shell, Java, Lua, Ocaml,
-- - And i am actively learning Rust, Svelte and digging into other different Javascript frameworks ( until i find the right one iykyk)
-  - Im currently delving into Three.js and Slint as well as a bit of Flutter when im not doing svelte related things
+- - And i am actively learning Rust, Svelte and digging into other different Javascript frameworks ( until i find the right one iykyk).
+  - Im currently delving into Three.js and Slint as well as a bit of Flutter when im not doing svelte related things.
 
 In my free time like to tinker with hardware and software.
-My current hobby obsession (since the last 4 years) is [Blender](https://github.com/blender) that i now use both for renders and a part of my 3dprinting workflow using the [anycubic Kobra3]()
-  (currently in the process of building my own mini server rack to fully transition out of most of the google products i use)
+My current hobby obsession (since the last 4 years) is [Blender](https://github.com/blender) that i now use both for renders and a part of my 3dprinting workflow using the [anycubic Kobra3]() as well as webdev using the [three.js] framework
+  - (currently in the process of building my own mini server rack to fully transition out of most of the google products i use).
+
 I game(mostly jrpg's and gachas with some rare mmo's here and there), and **love** tarvelling and meeting new people from wildly different backgrounds(last travel destination was portugal) 
 
 
